@@ -1,0 +1,4 @@
+*.psd
+*.png
+secret.json
+node_modules
